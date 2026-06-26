@@ -12,7 +12,7 @@ on:
       - main
     paths:
       - 'youtube-config-turkish.json'
-      - 'youtube.py'
+      - 'youtube-turkish.py'
       - '.github/workflows/yputube.yml'
 
 env:
