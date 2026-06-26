@@ -39,7 +39,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install git+https://github.com/zinzied/cloudscraper.git
-          pip install -r requirements-youtube.txt
+          pip install -r requirements.txt
       
       - name: Update streams
         env:
