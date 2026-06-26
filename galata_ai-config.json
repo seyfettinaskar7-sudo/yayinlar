@@ -1,0 +1,882 @@
+[
+  {
+    "country": "TR",
+    "subdivision": "03",
+    "folder_name": "tasoluk",
+    "stream_id": "504e6e65796f655133726b3d",
+    "name": "Bulvar",
+    "referer": "https://tasoluk.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": "03",
+    "folder_name": "tasoluk",
+    "stream_id": "5078386f6f4c7073664d493d",
+    "name": "Kasaba Meydanı",
+    "referer": "https://tasoluk.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": "03",
+    "folder_name": "tasoluk",
+    "stream_id": "4e7579444e73486b4b48453d",
+    "name": "Mini Park",
+    "referer": "https://tasoluk.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": "03",
+    "folder_name": "tasoluk",
+    "stream_id": "32444f56627549323850733d",
+    "name": "Belediye Önü",
+    "referer": "https://tasoluk.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": "03",
+    "folder_name": "tasoluk",
+    "stream_id": "4559464b6177704e4361303d",
+    "name": "Kahveler Bölgesi",
+    "referer": "https://tasoluk.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": "09",
+    "folder_name": "kusadasi",
+    "stream_id": "46724b634451574c41684d3d",
+    "name": "Captain's House Real Estate",
+    "referer": "https://roxy-world.ro"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "5a66527a767a7a432b73513d",
+    "name": "15 Temmuz Demokrasi Meydanı-2",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "394d416a5344714d626a383d",
+    "name": "Sarraflar Çarşısı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "4c4c79655739644d61304d3d",
+    "name": "Heykel Kavşağı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "743544534d56314e2b30773d",
+    "name": "Atatürk Bulvarı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "5235697245524d2b4c33733d",
+    "name": "Kapalı Çarşı Bedesten",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "324359417a3334467952453d",
+    "name": "Kanal İnegöl",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "2f4756586d392b425646303d",
+    "name": "Ahmet Akyolu Caddesi",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "473645506e4361566466343d",
+    "name": "15 Temmuz Demokrasi Meydanı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "656f746a2b7052615939453d",
+    "name": "Oylat Meydan",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "795565714b2f62444461773d",
+    "name": "Oylat Çarşı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "2f7033354a354b6a4e7a4d3d",
+    "name": "Atatürk Bulvarı - 2",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "792b626f6c702f63494c493d",
+    "name": "Alanyurt Köprülü kavşağı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "52393663627133765174673d",
+    "name": "Avm Kavşağı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "3447615878417769654e673d",
+    "name": "Altay Caddesi",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "34595678674176736d316f3d",
+    "name": "Şebboy Caddesi",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "4c652b6f534156424772633d",
+    "name": "Kent Meydanı",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 16,
+    "folder_name": "inegol",
+    "stream_id": "434e47723378714b4838343d",
+    "name": "İshakpaşa Camii ve Külliyesi",
+    "referer": "https://www.inegol.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "6b31735a4356316674626b3d",
+    "name": "İç Kale",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "4c356876664a4462394c453d",
+    "name": "Hz. Süleyman Camii",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "34754b46384376574a7a383d",
+    "name": "On Gözlü Köprü",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "6343616357487a554c35553d",
+    "name": "Ulu Camii Kamera 1",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "44302f4d70786454704e383d",
+    "name": "Ulu Camii Kamera 2",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 21,
+    "folder_name": "diyarbakir",
+    "stream_id": "517a5033377a34524f30493d",
+    "name": "Ulu Camii Kamera 3",
+    "referer": "https://www.diyarbakir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 37,
+    "folder_name": "abana",
+    "stream_id": "564b3341594c58314132773d",
+    "name": "Kamera 1 Hareketli",
+    "referer": "https://www.abana.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 37,
+    "folder_name": "agli",
+    "stream_id": "68514c4a2b716e4c3058773d",
+    "name": "Kamera 1",
+    "referer": "https://www.agli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 37,
+    "folder_name": "agli",
+    "stream_id": "567836444864786c3936493d",
+    "name": "Kamera 2",
+    "referer": "https://www.agli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "6732786e594657556349733d",
+    "name": "Eşrefoğlu Cami",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "454c71523837356a68666b3d",
+    "name": "Tarihi Taşköprü ve Çevresi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "7464314f364739314378453d",
+    "name": "Doğanbey Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "3741465552714b586d5a733d",
+    "name": "Damlapınar Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "632b366e437065573572633d",
+    "name": "Üzümlü Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "434c75503936364d6f726b3d",
+    "name": "Üstünler Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "684e644d7758684f7058493d",
+    "name": "Huğlu Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "49574c4c59522f525753593d",
+    "name": "Akçabelen Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "4b6868466e4a3234314e453d",
+    "name": "Kayabaşı Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "4334552b45482f3766504d3d",
+    "name": "Adaköy Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "44797a6e7174305571436b3d",
+    "name": "Günbatımı (Sunset)",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "69725469416b674c2b79303d",
+    "name": "Karahisar Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "6941764d76644b553671383d",
+    "name": "Sadıkhacı Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "506864644e696445726f6f3d",
+    "name": "Karaali Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "77716a71374d5562466d413d",
+    "name": "Yenidoğan Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "6d667a304838775a6b70513d",
+    "name": "Kurucuova",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "7933446c783869477453553d",
+    "name": "Leylekler Vadisi 1",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "6f58436e5546366b50316f3d",
+    "name": "Leylekler Vadisi 2",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "beysehir",
+    "stream_id": "4b3051686f44765a734d633d",
+    "name": "Gölyaka Mahallesi",
+    "referer": "https://www.beysehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 42,
+    "folder_name": "sarayonu",
+    "stream_id": "72654135525657752b4c773d",
+    "name": "Paşa Meydanı",
+    "referer": "https://www.ladikmahallesi.com"
+  },
+  {
+    "country": "TR",
+    "subdivision": 45,
+    "folder_name": "alasehir",
+    "stream_id": "706936764b4135356b2b553d",
+    "name": "Cumhuriyet Meydanı",
+    "referer": "https://www.alasehir.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "anzer",
+    "stream_id": "365857507a6e45636e516f3d",
+    "name": "Anzer Yaylası",
+    "referer": "https://anzerbalikoperatifi.com"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "54416757633375456241493d",
+    "name": "Eski Cami Önü",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "4841324973386471514d673d",
+    "name": "Genel Görünüm",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "6a384555776567347278343d",
+    "name": "Çarşıbaşı",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "67634f483635677569476b3d",
+    "name": "Sahil Genel Görünüm",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "732f63763174484170624d3d",
+    "name": "15 Temmuz Şehitler Meydanı",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "30484163697744343749673d",
+    "name": "Sahil Cami",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "6d4963747471724e4331633d",
+    "name": "Sahil Cami 2",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "344262353846704f7743633d",
+    "name": "100. Yıl Şehitler Parkı 1",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "6e496d6e30524e2f745a733d",
+    "name": "100. Yıl Şehitler Parkı 2",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "7a7949522b49426d3565593d",
+    "name": "100. Yıl Şehitler Parkı 3",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "6a4644654f3677306e636f3d",
+    "name": "100. Yıl Şehitler Parkı 4",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "786247636e776d59506f673d",
+    "name": "100. Yıl Şehitler Parkı 5",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "cayeli",
+    "stream_id": "61414a63536a4f346549493d",
+    "name": "Madenli Kavşak",
+    "referer": "https://www.cayeli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "derepazari",
+    "stream_id": "414c4a71743056416a4d453d",
+    "name": "Merkez Mahallesi Genel Görünüm",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "derepazari",
+    "stream_id": "4451496e312f6268734e4d3d",
+    "name": "Sahil Genel Görünüm",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "derepazari",
+    "stream_id": "4e6e764447764b4f646f6f3d",
+    "name": "Sahil Görünüm 1",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "derepazari",
+    "stream_id": "6d64734f777046795576633d",
+    "name": "Sahil Görünüm 2",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "erenkoy",
+    "stream_id": "4c6a72695046526c4964493d",
+    "name": "Erenköy Camii Önü",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "erenkoy",
+    "stream_id": "7357424d3470384b5863733d",
+    "name": "Erenköy Hareketli",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "hemsin",
+    "stream_id": "7a684766746430416d6a413d",
+    "name": "Hemşin",
+    "referer": "https://www.hemsin.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "hemsin",
+    "stream_id": "696c782f73722b345663673d",
+    "name": "Hemşin Genel Görünüm",
+    "referer": "https://www.hemsin.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ikizdere",
+    "stream_id": "5a745575453254647841773d",
+    "name": "Kamera 1",
+    "referer": "https://www.ikizdere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ikizdere",
+    "stream_id": "544148452f30645353556b3d",
+    "name": "Kamera 2",
+    "referer": "https://www.ikizdere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ikizdere",
+    "stream_id": "4f4f7253576232744a4a773d",
+    "name": "Kamera 3",
+    "referer": "https://www.ikizdere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ikizdere",
+    "stream_id": "6857656d314771524d35343d",
+    "name": "Kamera 4",
+    "referer": "https://www.ikizdere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ikizdere",
+    "stream_id": "487856716c71552b4733303d",
+    "name": "Kamera 5",
+    "referer": "https://www.ikizdere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "424a556b56506365734f6b3d",
+    "name": "Belediye Önü Hareketli",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "574d52477a4e5a623751733d",
+    "name": "Rize Caddesi Hareketli",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "506a6d7065766b526b53303d",
+    "name": "Rize Caddesi 1",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "617a4e50762f476a78336f3d",
+    "name": "Rize Caddesi 2",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "2b6f6d4a45686c765370633d",
+    "name": "Sosyal Alan 1",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kalkandere",
+    "stream_id": "42795346513878483559453d",
+    "name": "Giriş Hareketli",
+    "referer": "https://www.kalkandere.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "7072457141377a6a6170733d",
+    "name": "Recep Tayyip Erdoğan Caddesi",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "6f4d4e555535674e7a59383d",
+    "name": "Panorama",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "6c3141546b3170596e64343d",
+    "name": "Camii Önü",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "37646576366439436e7a773d",
+    "name": "Sağlık Ocağı Yolu",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "4d4270466a7861456942593d",
+    "name": "Dörtyol Hareketli",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "kendirli",
+    "stream_id": "5253737141624946582b4d3d",
+    "name": "Kendirli Genel Görünüm",
+    "referer": "https://kendirli.bel.tr"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "madenli",
+    "stream_id": "794e64376a4c4b687838343d",
+    "name": "İstasyon Tepe",
+    "referer": "https://www.madenli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "madenli",
+    "stream_id": "45646543795176567a764d3d",
+    "name": "Belediye Önü",
+    "referer": "https://www.madenli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "madenli",
+    "stream_id": "65656f43637653375a42593d",
+    "name": "Belediye Önü Hareketli",
+    "referer": "https://www.madenli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "madenli",
+    "stream_id": "324349426f756c764152773d",
+    "name": "Genel Görünüm Hareketli",
+    "referer": "https://www.madenli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "madenli",
+    "stream_id": "377a6473515235764e2b413d",
+    "name": "Pilav Dağı",
+    "referer": "https://www.madenli.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "muradiye",
+    "stream_id": "6537453971524676446f413d",
+    "name": "Kamera 1",
+    "referer": "http://www.muradiyem.com"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "muradiye",
+    "stream_id": "61773443517635316145383d",
+    "name": "Kamera 2",
+    "referer": "http://www.muradiyem.com"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "muradiye",
+    "stream_id": "69615646506732304b56383d",
+    "name": "Kamera 3 Hareketli",
+    "referer": "http://www.muradiyem.com"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ortamuradiye",
+    "stream_id": "6537453971524676446f413d",
+    "name": "Kamera 1",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ortamuradiye",
+    "stream_id": "61773443517635316145383d",
+    "name": "Kamera 2",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "ortamuradiye",
+    "stream_id": "69615646506732304b56383d",
+    "name": "Kamera 3",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "pazar",
+    "stream_id": "4e4a7562473336634253633d",
+    "name": "Merkez",
+    "referer": "https://pazar.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 53,
+    "folder_name": "yolbasi",
+    "stream_id": "5563727371744a694353343d",
+    "name": "Yolbaşı",
+    "referer": "https://embed.galata.ai"
+  },
+  {
+    "country": "TR",
+    "subdivision": 58,
+    "folder_name": "sivas",
+    "stream_id": "67532f756f4637734e65773d",
+    "name": "Kent Meydanı Şehir Kamerası",
+    "referer": "https://sivas.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 58,
+    "folder_name": "sivas",
+    "stream_id": "5469545a79584351537a773d",
+    "name": "Medreseler Şehir Kamerası",
+    "referer": "https://sivas.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 58,
+    "folder_name": "sivas",
+    "stream_id": "42692f7a455075516532493d",
+    "name": "Meraküm Şehir Kamerası",
+    "referer": "https://sivas.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 58,
+    "folder_name": "sivas",
+    "stream_id": "65536544374632597257383d",
+    "name": "Yukarı Tekke Şehir Kamerası",
+    "referer": "https://sivas.bel.tr/"
+  },
+  {
+    "country": "TR",
+    "subdivision": 58,
+    "folder_name": "sivas",
+    "stream_id": "4f4e5364785739416837553d",
+    "name": "Aksu Şehir Kamerası",
+    "referer": "https://sivas.bel.tr/"
+  }
+]
