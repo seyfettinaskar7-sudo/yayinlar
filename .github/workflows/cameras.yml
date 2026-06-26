@@ -1,4 +1,4 @@
-name: run cameras main.py
+name: run socialmedia-cameras.py
 
 on:
   schedule:
