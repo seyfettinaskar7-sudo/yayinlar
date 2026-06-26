@@ -1,4 +1,4 @@
-name: run main.py
+name: run socialmedia-cameras.py
 on:
   schedule:
     - cron: '0 */2 * * *'
